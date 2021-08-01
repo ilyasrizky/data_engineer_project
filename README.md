@@ -41,7 +41,7 @@ Project ini menggunakan beberapa referensi `image` atau `container` berikut:
 
 ### Data Modelling Datawarehouse
 - Extract, Transform, Load Pipeline
-![](./images/flow.jpg "ETL Flow")
+![](./images/flow.JPG "ETL Flow")
 
 - Datawarehouse
 ![](./images/diagram.jpg "ERD")
